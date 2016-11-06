@@ -1,3 +1,4 @@
+import os
 from flask import Flask, jsonify
 from EdicarDataProcessing import get_session_data
 
@@ -18,4 +19,7 @@ def data(player_id):
 	return jsonify([{'date': session.date, 'stepVisits': session.stepVisits} for session in played_sessions])
 
 if __name__ == '__main__':
-    app.run()
+	port = 5000
+	if os.environ['PORT']:
+		port int(os.environ['PORT'])
+    app.run(port=port)
