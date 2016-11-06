@@ -18,8 +18,8 @@ def data(player_id):
 	played_sessions = get_session_data(player_id)
 	return jsonify([{'date': session.date, 'stepVisits': session.stepVisits} for session in played_sessions])
 
-if __name__ == '__main__':
-	port = 5000
-	if os.environ['PORT']:
-		port int(os.environ['PORT'])
-    app.run(port=port)
+port = 5000
+portFromEnv = os.environ.get('PORT')
+if portFromEnv:
+	port = portFromEnv
+app.run(port=port)
