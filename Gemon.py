@@ -3,7 +3,7 @@ from flask import Flask, jsonify
 from EdicarDataProcessing import get_session_data
 
 app = Flask(__name__)
-app.config.update(DEBUG=True)
+#app.config.update(DEBUG=True)
 
 @app.route('/')
 def root():
