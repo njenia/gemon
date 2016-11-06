@@ -21,5 +21,5 @@ def data(player_id):
 port = 5000
 portFromEnv = os.environ.get('PORT')
 if portFromEnv:
-	port = portFromEnv
+	port = int(portFromEnv)
 app.run(port=port)
