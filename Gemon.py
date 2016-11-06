@@ -22,4 +22,5 @@ port = 5000
 portFromEnv = os.environ.get('PORT')
 if portFromEnv:
 	port = int(portFromEnv)
+print "this is the port!!! %s" % str(port)
 app.run(port=port)
