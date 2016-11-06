@@ -1,0 +1,19 @@
+Starting Session Logs at Sat May 14 23:51:57 IDT 2016
+Sat May 14 23:51:57 IDT 2016   11082 Msg:  Zone:5
+Sat May 14 23:51:57 IDT 2016   11082 Msg:  Speed:2
+Sat May 14 23:51:57 IDT 2016   11083 Msg:  Time Set:0
+Sat May 14 23:52:01 IDT 2016   14957 Msg: 4
+Sat May 14 23:52:01 IDT 2016   14958 Msg: Game resumed
+Sat May 14 23:52:01 IDT 2016   14960 Msg: 2
+Sat May 14 23:52:02 IDT 2016   16050 Msg: 3
+Sat May 14 23:52:03 IDT 2016   16889 Msg: 3
+Sat May 14 23:52:04 IDT 2016   17884 Msg: 4
+Sat May 14 23:52:10 IDT 2016   24487 Msg: 5
+Sat May 14 23:52:10 IDT 2016   24600 Msg: crash
+Sat May 14 23:52:13 IDT 2016   27117 Msg: 6
+Sat May 14 23:52:13 IDT 2016   27118 Msg: Game resumed
+Sat May 14 23:52:18 IDT 2016   32192 Msg: 4
+Sat May 14 23:52:18 IDT 2016   32300 Msg: crash
+Sat May 14 23:52:19 IDT 2016   33454 Msg: 5
+Sat May 14 23:52:19 IDT 2016   33455 Msg: Game resumed
+Sat May 14 23:52:24 IDT 2016   38299 Msg: crash

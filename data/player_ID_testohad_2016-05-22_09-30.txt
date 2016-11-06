@@ -1,0 +1,4 @@
+Starting Session Logs at Sun May 22 21:30:33 IDT 2016
+Sun May 22 21:30:33 IDT 2016 3038914 Msg:  Zone:5
+Sun May 22 21:30:33 IDT 2016 3038914 Msg:  Speed:2
+Sun May 22 21:30:33 IDT 2016 3038915 Msg:  Time Set:0

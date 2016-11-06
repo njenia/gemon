@@ -1,0 +1,58 @@
+Starting Session Logs at Sat May 14 23:53:34 IDT 2016
+Sat May 14 23:53:34 IDT 2016   12852 Msg:  Zone:5
+Sat May 14 23:53:34 IDT 2016   12853 Msg:  Speed:2
+Sat May 14 23:53:34 IDT 2016   12853 Msg:  Time Set:0
+Sat May 14 23:53:36 IDT 2016   14722 Msg: 4
+Sat May 14 23:53:36 IDT 2016   14724 Msg: Game resumed
+Sat May 14 23:53:37 IDT 2016   15222 Msg: 4
+Sat May 14 23:53:46 IDT 2016   24843 Msg: 3
+Sat May 14 23:53:47 IDT 2016   25346 Msg: 3
+Sat May 14 23:53:51 IDT 2016   29973 Msg: crash
+Sat May 14 23:53:52 IDT 2016   30499 Msg: 4
+Sat May 14 23:53:52 IDT 2016   30500 Msg: Game resumed
+Sat May 14 23:53:52 IDT 2016   30516 Msg: crash
+Sat May 14 23:53:53 IDT 2016   31302 Msg: 4
+Sat May 14 23:53:53 IDT 2016   32023 Msg: 2
+Sat May 14 23:53:53 IDT 2016   32023 Msg: Game resumed
+Sat May 14 23:53:55 IDT 2016   34095 Msg: 2
+Sat May 14 23:53:56 IDT 2016   34911 Msg: 4
+Sat May 14 23:53:56 IDT 2016   35028 Msg: crash
+Sat May 14 23:53:57 IDT 2016   36135 Msg: 4
+Sat May 14 23:53:59 IDT 2016   37803 Msg: 3
+Sat May 14 23:53:59 IDT 2016   37804 Msg: Game resumed
+Sat May 14 23:53:59 IDT 2016   37906 Msg: crash
+Sat May 14 23:54:00 IDT 2016   38302 Msg: 3
+Sat May 14 23:54:00 IDT 2016   38504 Msg: 4
+Sat May 14 23:54:00 IDT 2016   38505 Msg: Game resumed
+Sat May 14 23:54:00 IDT 2016   38640 Msg: crash
+Sat May 14 23:54:00 IDT 2016   39110 Msg: 4
+Sat May 14 23:54:03 IDT 2016   41371 Msg: 3
+Sat May 14 23:54:03 IDT 2016   41371 Msg: Game resumed
+Sat May 14 23:54:03 IDT 2016   41482 Msg: crash
+Sat May 14 23:54:03 IDT 2016   41871 Msg: 3
+Sat May 14 23:54:03 IDT 2016   42079 Msg: 4
+Sat May 14 23:54:03 IDT 2016   42080 Msg: Game resumed
+Sat May 14 23:54:03 IDT 2016   42155 Msg: crash
+Sat May 14 23:54:04 IDT 2016   42579 Msg: 4
+Sat May 14 23:54:05 IDT 2016   43423 Msg: 3
+Sat May 14 23:54:05 IDT 2016   43423 Msg: Game resumed
+Sat May 14 23:54:05 IDT 2016   43467 Msg: crash
+Sat May 14 23:54:05 IDT 2016   43927 Msg: 3
+Sat May 14 23:54:05 IDT 2016   44053 Msg: 4
+Sat May 14 23:54:05 IDT 2016   44054 Msg: Game resumed
+Sat May 14 23:54:09 IDT 2016   47560 Msg: 4
+Sat May 14 23:54:10 IDT 2016   48440 Msg: 2
+Sat May 14 23:54:12 IDT 2016   51144 Msg: 2
+Sat May 14 23:54:13 IDT 2016   51951 Msg: 4
+Sat May 14 23:54:18 IDT 2016   56305 Msg: 4
+Sat May 14 23:54:19 IDT 2016   57190 Msg: 6
+Sat May 14 23:54:21 IDT 2016   59935 Msg: 6
+Sat May 14 23:54:22 IDT 2016   60820 Msg: 7
+Sat May 14 23:54:26 IDT 2016   64207 Msg: 7
+Sat May 14 23:54:26 IDT 2016   65149 Msg: 5
+Sat May 14 23:54:29 IDT 2016   67881 Msg: 5
+Sat May 14 23:54:30 IDT 2016   68606 Msg: 3
+Sat May 14 23:54:34 IDT 2016   72424 Msg: 3
+Sat May 14 23:54:35 IDT 2016   73264 Msg: 1
+Sat May 14 23:54:40 IDT 2016   78382 Msg: crash
+Sat May 14 23:54:41 IDT 2016   80105 Msg: 1

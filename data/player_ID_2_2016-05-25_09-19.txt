@@ -1,0 +1,77 @@
+Starting Session Logs at Wed May 25 21:19:24 IDT 2016
+Wed May 25 21:19:24 IDT 2016   22231 Msg:  Zone:5
+Wed May 25 21:19:24 IDT 2016   22231 Msg:  Speed:2
+Wed May 25 21:19:24 IDT 2016   22231 Msg:  Time Set:0
+Wed May 25 21:19:29 IDT 2016   27483 Msg: 2
+Wed May 25 21:19:29 IDT 2016   27485 Msg: Game resumed
+Wed May 25 21:19:30 IDT 2016   28314 Msg: 2
+Wed May 25 21:19:31 IDT 2016   29216 Msg: 4
+Wed May 25 21:19:36 IDT 2016   35154 Msg: 4
+Wed May 25 21:19:39 IDT 2016   37877 Msg: 3
+Wed May 25 21:19:42 IDT 2016   41085 Msg: 3
+Wed May 25 21:19:44 IDT 2016   42305 Msg: 1
+Wed May 25 21:19:47 IDT 2016   45374 Msg: 1
+Wed May 25 21:19:48 IDT 2016   46269 Msg: 2
+Wed May 25 21:19:50 IDT 2016   48479 Msg: game reset
+Wed May 25 21:19:50 IDT 2016   48480 Msg: zone changed to: 0
+Wed May 25 21:19:50 IDT 2016   48481 Msg: speed changed to: 2
+Wed May 25 21:19:50 IDT 2016   48481 Msg: time changed to: 0
+Wed May 25 21:19:51 IDT 2016   49204 Msg: game reset
+Wed May 25 21:19:51 IDT 2016   49205 Msg: zone changed to: 1
+Wed May 25 21:19:51 IDT 2016   49207 Msg: speed changed to: 2
+Wed May 25 21:19:51 IDT 2016   49208 Msg: time changed to: 0
+Wed May 25 21:19:51 IDT 2016   49602 Msg: game reset
+Wed May 25 21:19:51 IDT 2016   49602 Msg: zone changed to: 2
+Wed May 25 21:19:51 IDT 2016   49602 Msg: speed changed to: 2
+Wed May 25 21:19:51 IDT 2016   49602 Msg: time changed to: 0
+Wed May 25 21:19:51 IDT 2016   50006 Msg: game reset
+Wed May 25 21:19:51 IDT 2016   50006 Msg: zone changed to: 3
+Wed May 25 21:19:51 IDT 2016   50006 Msg: speed changed to: 2
+Wed May 25 21:19:51 IDT 2016   50006 Msg: time changed to: 0
+Wed May 25 21:19:52 IDT 2016   50647 Msg: game reset
+Wed May 25 21:19:52 IDT 2016   50647 Msg: zone changed to: 3
+Wed May 25 21:19:52 IDT 2016   50647 Msg: speed changed to: 2
+Wed May 25 21:19:52 IDT 2016   50647 Msg: time changed to: 30
+Wed May 25 21:19:52 IDT 2016   51133 Msg: game reset
+Wed May 25 21:19:52 IDT 2016   51133 Msg: zone changed to: 3
+Wed May 25 21:19:52 IDT 2016   51138 Msg: speed changed to: 2
+Wed May 25 21:19:52 IDT 2016   51138 Msg: time changed to: 60
+Wed May 25 21:19:53 IDT 2016   51538 Msg: game reset
+Wed May 25 21:19:53 IDT 2016   51538 Msg: zone changed to: 3
+Wed May 25 21:19:53 IDT 2016   51538 Msg: speed changed to: 2
+Wed May 25 21:19:53 IDT 2016   51538 Msg: time changed to: 120
+Wed May 25 21:19:53 IDT 2016   52019 Msg: game reset
+Wed May 25 21:19:53 IDT 2016   52019 Msg: zone changed to: 3
+Wed May 25 21:19:53 IDT 2016   52019 Msg: speed changed to: 2
+Wed May 25 21:19:53 IDT 2016   52019 Msg: time changed to: 180
+Wed May 25 21:19:54 IDT 2016   52420 Msg: game reset
+Wed May 25 21:19:54 IDT 2016   52420 Msg: zone changed to: 3
+Wed May 25 21:19:54 IDT 2016   52425 Msg: speed changed to: 2
+Wed May 25 21:19:54 IDT 2016   52425 Msg: time changed to: 300
+Wed May 25 21:19:54 IDT 2016   52820 Msg: game reset
+Wed May 25 21:19:54 IDT 2016   52820 Msg: zone changed to: 3
+Wed May 25 21:19:54 IDT 2016   52825 Msg: speed changed to: 2
+Wed May 25 21:19:54 IDT 2016   52825 Msg: time changed to: 600
+Wed May 25 21:19:55 IDT 2016   53500 Msg: game reset
+Wed May 25 21:19:55 IDT 2016   53500 Msg: zone changed to: 3
+Wed May 25 21:19:55 IDT 2016   53505 Msg: speed changed to: 2
+Wed May 25 21:19:55 IDT 2016   53505 Msg: time changed to: 0
+Wed May 25 21:19:55 IDT 2016   54064 Msg: game reset
+Wed May 25 21:19:55 IDT 2016   54065 Msg: zone changed to: 3
+Wed May 25 21:19:55 IDT 2016   54065 Msg: speed changed to: 2
+Wed May 25 21:19:55 IDT 2016   54066 Msg: time changed to: 30
+Wed May 25 21:19:57 IDT 2016   55212 Msg: game reset
+Wed May 25 21:19:57 IDT 2016   55212 Msg: zone changed to: 3
+Wed May 25 21:19:57 IDT 2016   55212 Msg: speed changed to: 3
+Wed May 25 21:19:57 IDT 2016   55212 Msg: time changed to: 30
+Wed May 25 21:19:57 IDT 2016   55818 Msg: game reset
+Wed May 25 21:19:57 IDT 2016   55818 Msg: zone changed to: 3
+Wed May 25 21:19:57 IDT 2016   55818 Msg: speed changed to: 0
+Wed May 25 21:19:57 IDT 2016   55818 Msg: time changed to: 30
+Wed May 25 21:19:58 IDT 2016   56994 Msg: game reset
+Wed May 25 21:19:58 IDT 2016   56999 Msg: zone changed to: 3
+Wed May 25 21:19:58 IDT 2016   56999 Msg: speed changed to: 1
+Wed May 25 21:19:58 IDT 2016   56999 Msg: time changed to: 30
+Wed May 25 21:20:05 IDT 2016   63380 Msg: 2
+Wed May 25 21:20:05 IDT 2016   63380 Msg: Game resumed
+Wed May 25 21:20:06 IDT 2016   64226 Msg: 3

@@ -1,0 +1,179 @@
+Starting Session Logs at Fri May 20 09:52:41 IDT 2016
+Fri May 20 09:52:41 IDT 2016  266934 Msg:  Zone:5
+Fri May 20 09:52:41 IDT 2016  266934 Msg:  Speed:2
+Fri May 20 09:52:41 IDT 2016  266934 Msg:  Time Set:0
+Fri May 20 09:52:48 IDT 2016  273772 Msg: 3
+Fri May 20 09:52:48 IDT 2016  273775 Msg: Game resumed
+Fri May 20 09:52:49 IDT 2016  274268 Msg: 3
+Fri May 20 09:52:51 IDT 2016  276106 Msg: 4
+Fri May 20 09:52:51 IDT 2016  276606 Msg: 4
+Fri May 20 09:52:58 IDT 2016  284039 Msg: 5
+Fri May 20 09:52:58 IDT 2016  284064 Msg: crash
+Fri May 20 09:52:59 IDT 2016  284539 Msg: 5
+Fri May 20 09:53:01 IDT 2016  287081 Msg: 6
+Fri May 20 09:53:01 IDT 2016  287081 Msg: Game resumed
+Fri May 20 09:53:02 IDT 2016  287120 Msg: crash
+Fri May 20 09:53:02 IDT 2016  287581 Msg: 6
+Fri May 20 09:53:03 IDT 2016  288630 Msg: 4
+Fri May 20 09:53:03 IDT 2016  288631 Msg: Game resumed
+Fri May 20 09:53:04 IDT 2016  289129 Msg: 4
+Fri May 20 09:53:04 IDT 2016  289432 Msg: crash
+Fri May 20 09:53:04 IDT 2016  290063 Msg: 3
+Fri May 20 09:53:04 IDT 2016  290063 Msg: Game resumed
+Fri May 20 09:53:05 IDT 2016  290563 Msg: 3
+Fri May 20 09:53:09 IDT 2016  294352 Msg: crash
+Fri May 20 09:53:12 IDT 2016  297438 Msg: 5
+Fri May 20 09:53:12 IDT 2016  297438 Msg: Game resumed
+Fri May 20 09:53:12 IDT 2016  297561 Msg: crash
+Fri May 20 09:53:12 IDT 2016  297562 Msg: crash
+Fri May 20 09:53:12 IDT 2016  297940 Msg: 5
+Fri May 20 09:53:14 IDT 2016  299390 Msg: 4
+Fri May 20 09:53:14 IDT 2016  299391 Msg: Game resumed
+Fri May 20 09:53:14 IDT 2016  299891 Msg: 4
+Fri May 20 09:53:18 IDT 2016  303457 Msg: crash
+Fri May 20 09:53:20 IDT 2016  305728 Msg: 5
+Fri May 20 09:53:20 IDT 2016  305728 Msg: Game resumed
+Fri May 20 09:53:21 IDT 2016  306229 Msg: 5
+Fri May 20 09:53:24 IDT 2016  309131 Msg: 6
+Fri May 20 09:53:24 IDT 2016  309626 Msg: 6
+Fri May 20 09:53:28 IDT 2016  313885 Msg: crash
+Fri May 20 09:53:37 IDT 2016  322661 Msg: 4
+Fri May 20 09:53:37 IDT 2016  322666 Msg: Game resumed
+Fri May 20 09:53:37 IDT 2016  322746 Msg: crash
+Fri May 20 09:53:37 IDT 2016  322746 Msg: crash
+Fri May 20 09:53:38 IDT 2016  323161 Msg: 4
+Fri May 20 09:53:39 IDT 2016  324995 Msg: 7
+Fri May 20 09:53:39 IDT 2016  324997 Msg: Game resumed
+Fri May 20 09:53:40 IDT 2016  325496 Msg: 7
+Fri May 20 09:53:43 IDT 2016  328993 Msg: 6
+Fri May 20 09:53:44 IDT 2016  329105 Msg: crash
+Fri May 20 09:53:44 IDT 2016  329493 Msg: 6
+Fri May 20 09:54:21 IDT 2016  366191 Msg: 5
+Fri May 20 09:54:21 IDT 2016  366196 Msg: Game resumed
+Fri May 20 09:54:21 IDT 2016  366692 Msg: 5
+Fri May 20 09:54:24 IDT 2016  369513 Msg: 7
+Fri May 20 09:54:24 IDT 2016  370013 Msg: 7
+Fri May 20 09:54:29 IDT 2016  374654 Msg: crash
+Fri May 20 09:54:30 IDT 2016  375185 Msg: 5
+Fri May 20 09:54:30 IDT 2016  375185 Msg: Game resumed
+Fri May 20 09:54:30 IDT 2016  375685 Msg: 5
+Fri May 20 09:54:33 IDT 2016  378185 Msg: 3
+Fri May 20 09:54:33 IDT 2016  378685 Msg: 3
+Fri May 20 09:54:38 IDT 2016  383576 Msg: crash
+Fri May 20 09:54:52 IDT 2016  397546 Msg: 4
+Fri May 20 09:54:52 IDT 2016  397546 Msg: Game resumed
+Fri May 20 09:54:52 IDT 2016  398046 Msg: 4
+Fri May 20 09:54:56 IDT 2016  401843 Msg: crash
+Fri May 20 09:54:57 IDT 2016  402812 Msg: 5
+Fri May 20 09:54:57 IDT 2016  402812 Msg: Game resumed
+Fri May 20 09:54:57 IDT 2016  402968 Msg: crash
+Fri May 20 09:54:57 IDT 2016  402968 Msg: crash
+Fri May 20 09:54:58 IDT 2016  403312 Msg: 5
+Fri May 20 09:54:58 IDT 2016  403827 Msg: 6
+Fri May 20 09:54:58 IDT 2016  403827 Msg: Game resumed
+Fri May 20 09:54:59 IDT 2016  404327 Msg: 6
+Fri May 20 09:55:02 IDT 2016  407968 Msg: crash
+Fri May 20 09:55:05 IDT 2016  410890 Msg: 7
+Fri May 20 09:55:05 IDT 2016  410890 Msg: Game resumed
+Fri May 20 09:55:06 IDT 2016  411390 Msg: 7
+Fri May 20 09:55:08 IDT 2016  413968 Msg: 6
+Fri May 20 09:55:09 IDT 2016  414468 Msg: 6
+Fri May 20 09:55:12 IDT 2016  417890 Msg: 7
+Fri May 20 09:55:13 IDT 2016  418390 Msg: 7
+Fri May 20 09:55:18 IDT 2016  423297 Msg: crash
+Fri May 20 09:55:18 IDT 2016  423469 Msg: 5
+Fri May 20 09:55:18 IDT 2016  423469 Msg: Game resumed
+Fri May 20 09:55:18 IDT 2016  423625 Msg: crash
+Fri May 20 09:55:18 IDT 2016  423625 Msg: crash
+Fri May 20 09:55:18 IDT 2016  423969 Msg: 5
+Fri May 20 09:55:20 IDT 2016  425203 Msg: 6
+Fri May 20 09:55:20 IDT 2016  425203 Msg: Game resumed
+Fri May 20 09:55:20 IDT 2016  425703 Msg: 6
+Fri May 20 09:55:23 IDT 2016  428391 Msg: 4
+Fri May 20 09:55:23 IDT 2016  428891 Msg: 4
+Fri May 20 09:55:27 IDT 2016  432657 Msg: 3
+Fri May 20 09:55:28 IDT 2016  433157 Msg: 3
+Fri May 20 09:55:32 IDT 2016  437626 Msg: crash
+Fri May 20 09:55:34 IDT 2016  439126 Msg: 2
+Fri May 20 09:55:34 IDT 2016  439126 Msg: Game resumed
+Fri May 20 09:55:34 IDT 2016  439626 Msg: 2
+Fri May 20 09:55:37 IDT 2016  442563 Msg: 4
+Fri May 20 09:55:37 IDT 2016  442579 Msg: crash
+Fri May 20 09:55:37 IDT 2016  443063 Msg: 4
+Fri May 20 09:55:39 IDT 2016  444126 Msg: 3
+Fri May 20 09:55:39 IDT 2016  444126 Msg: Game resumed
+Fri May 20 09:55:39 IDT 2016  444626 Msg: 3
+Fri May 20 09:55:43 IDT 2016  448673 Msg: 5
+Fri May 20 09:55:44 IDT 2016  449173 Msg: 5
+Fri May 20 09:55:47 IDT 2016  452267 Msg: 6
+Fri May 20 09:55:47 IDT 2016  452767 Msg: 6
+Fri May 20 09:55:52 IDT 2016  457392 Msg: crash
+Fri May 20 09:55:52 IDT 2016  457423 Msg: Game Interuppted
+Fri May 20 09:55:52 IDT 2016  457439 Msg: game reset
+Fri May 20 09:55:52 IDT 2016  457439 Msg: zone changed to: 5
+Fri May 20 09:55:52 IDT 2016  457439 Msg: speed changed to: 2
+Fri May 20 09:55:52 IDT 2016  457439 Msg: time changed to: 0
+Fri May 20 09:55:55 IDT 2016  460345 Msg: game reset
+Fri May 20 09:55:55 IDT 2016  460345 Msg: zone changed to: 5
+Fri May 20 09:55:55 IDT 2016  460345 Msg: speed changed to: 2
+Fri May 20 09:55:55 IDT 2016  460345 Msg: time changed to: 30
+Fri May 20 09:55:56 IDT 2016  461533 Msg: game reset
+Fri May 20 09:55:56 IDT 2016  461533 Msg: zone changed to: 5
+Fri May 20 09:55:56 IDT 2016  461533 Msg: speed changed to: 2
+Fri May 20 09:55:56 IDT 2016  461533 Msg: time changed to: 60
+Fri May 20 09:55:59 IDT 2016  465033 Msg: game reset
+Fri May 20 09:55:59 IDT 2016  465033 Msg: zone changed to: 5
+Fri May 20 09:55:59 IDT 2016  465033 Msg: speed changed to: 3
+Fri May 20 09:55:59 IDT 2016  465033 Msg: time changed to: 60
+Fri May 20 09:56:00 IDT 2016  465721 Msg: game reset
+Fri May 20 09:56:00 IDT 2016  465721 Msg: zone changed to: 5
+Fri May 20 09:56:00 IDT 2016  465721 Msg: speed changed to: 0
+Fri May 20 09:56:00 IDT 2016  465721 Msg: time changed to: 60
+Fri May 20 09:56:01 IDT 2016  466783 Msg: game reset
+Fri May 20 09:56:01 IDT 2016  466783 Msg: zone changed to: 5
+Fri May 20 09:56:01 IDT 2016  466783 Msg: speed changed to: 1
+Fri May 20 09:56:01 IDT 2016  466783 Msg: time changed to: 60
+Fri May 20 09:56:04 IDT 2016  469924 Msg: game reset
+Fri May 20 09:56:04 IDT 2016  469924 Msg: zone changed to: 5
+Fri May 20 09:56:04 IDT 2016  469924 Msg: speed changed to: 2
+Fri May 20 09:56:04 IDT 2016  469924 Msg: time changed to: 60
+Fri May 20 09:56:06 IDT 2016  471596 Msg: game reset
+Fri May 20 09:56:06 IDT 2016  471596 Msg: zone changed to: 5
+Fri May 20 09:56:06 IDT 2016  471596 Msg: speed changed to: 3
+Fri May 20 09:56:06 IDT 2016  471596 Msg: time changed to: 60
+Fri May 20 09:56:07 IDT 2016  472299 Msg: game reset
+Fri May 20 09:56:07 IDT 2016  472299 Msg: zone changed to: 5
+Fri May 20 09:56:07 IDT 2016  472299 Msg: speed changed to: 0
+Fri May 20 09:56:07 IDT 2016  472315 Msg: time changed to: 60
+Fri May 20 09:56:07 IDT 2016  473065 Msg: game reset
+Fri May 20 09:56:07 IDT 2016  473065 Msg: zone changed to: 5
+Fri May 20 09:56:07 IDT 2016  473065 Msg: speed changed to: 1
+Fri May 20 09:56:07 IDT 2016  473065 Msg: time changed to: 60
+Fri May 20 09:56:14 IDT 2016  479956 Msg: game reset
+Fri May 20 09:56:14 IDT 2016  479956 Msg: zone changed to: 5
+Fri May 20 09:56:14 IDT 2016  479956 Msg: speed changed to: 2
+Fri May 20 09:56:14 IDT 2016  479956 Msg: time changed to: 60
+Fri May 20 09:56:26 IDT 2016  491253 Msg: game reset
+Fri May 20 09:56:26 IDT 2016  491253 Msg: zone changed to: 0
+Fri May 20 09:56:26 IDT 2016  491253 Msg: speed changed to: 2
+Fri May 20 09:56:26 IDT 2016  491253 Msg: time changed to: 60
+Fri May 20 09:56:36 IDT 2016  501629 Msg: game reset
+Fri May 20 09:56:36 IDT 2016  501629 Msg: zone changed to: 0
+Fri May 20 09:56:36 IDT 2016  501629 Msg: speed changed to: 3
+Fri May 20 09:56:36 IDT 2016  501629 Msg: time changed to: 60
+Fri May 20 09:56:38 IDT 2016  503269 Msg: game reset
+Fri May 20 09:56:38 IDT 2016  503269 Msg: zone changed to: 0
+Fri May 20 09:56:38 IDT 2016  503269 Msg: speed changed to: 3
+Fri May 20 09:56:38 IDT 2016  503269 Msg: time changed to: 120
+Fri May 20 09:56:40 IDT 2016  505848 Msg: game reset
+Fri May 20 09:56:40 IDT 2016  505848 Msg: zone changed to: 1
+Fri May 20 09:56:40 IDT 2016  505863 Msg: speed changed to: 3
+Fri May 20 09:56:40 IDT 2016  505863 Msg: time changed to: 120
+Fri May 20 09:56:51 IDT 2016  516676 Msg: game reset
+Fri May 20 09:56:51 IDT 2016  516676 Msg: zone changed to: 1
+Fri May 20 09:56:51 IDT 2016  516676 Msg: speed changed to: 3
+Fri May 20 09:56:51 IDT 2016  516676 Msg: time changed to: 180
+Fri May 20 09:56:52 IDT 2016  517567 Msg: game reset
+Fri May 20 09:56:52 IDT 2016  517567 Msg: zone changed to: 2
+Fri May 20 09:56:52 IDT 2016  517567 Msg: speed changed to: 3
+Fri May 20 09:56:52 IDT 2016  517567 Msg: time changed to: 180
