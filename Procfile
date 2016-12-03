@@ -1,1 +1,1 @@
-web: python Gemon.py
+web: python Gemon.py --noauth_local_webserver
