@@ -55,8 +55,10 @@ def get_all_files():
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('drive', 'v3', http=http)
 
+    # results = service.files().list(
+    #     q="'gem on' in owners and mimeType != 'application/vnd.google-apps.folder'").execute()
     results = service.files().list(
-        q="'gem on' in owners and mimeType != 'application/vnd.google-apps.folder'").execute()
+        q="name contains 'REUT PT' or name contains 'REUT OT'").execute()
     files_metadata = results.get('files', [])
     files_content = []
     for file_metadata in files_metadata:

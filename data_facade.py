@@ -12,3 +12,8 @@ def get_all_players_data():
 
 def _parse_player_id_from_file_name(file_name):
     return re.search('player_ID_(.*)_20', file_name).group(1)
+
+
+print 'loading players data'
+players_data = get_all_players_data()
+print "players data loaded"

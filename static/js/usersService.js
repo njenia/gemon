@@ -16,12 +16,9 @@ angular.module('gemon').service('UsersService', function () {
 
 var users = [
     {
-        'id':"testohad", 'name':"Ohad Doron"
+        'id':"REUT PT 0001", 'name':"REUT PT 0001"
     },
     {
-        'id':"2", 'name':"Israel Israeli"
-    },
-    {
-        'id':"3", 'name':"Gretel Nyggard"
+        'id':"REUT OT 0001", 'name':"REUT OT 0001"
     }
 ];

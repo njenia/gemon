@@ -2,13 +2,13 @@ import os
 
 from flask import Flask, jsonify
 
-from EdicarDataProcessing import get_session_data
-from data_facade import get_all_players_data
+from session_processing import get_session_data
 
 app = Flask(__name__)
 
 
 # app.config.update(DEBUG=True)
+
 
 
 @app.route('/')
@@ -28,6 +28,5 @@ def data(player_id):
 
 
 if __name__ == '__main__':
-    data = get_all_players_data()
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
