@@ -22,6 +22,9 @@ var users = [
         'id':"REUT PT 0002", 'name':"REUT PT 0002"
     },
     {
+        'id':"REUT PT 0005", 'name':"REUT PT 0005"
+    },
+    {
         'id':"REUT OT 0001", 'name':"REUT OT 0001"
     },
     {
