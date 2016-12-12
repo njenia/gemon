@@ -14,23 +14,12 @@ angular.module('gemon').service('UsersService', function () {
    }
 });
 
-var users = [
-    {
-        'id':"REUT PT 0001", 'name':"REUT PT 0001"
-    },
-    {
-        'id':"REUT PT 0002", 'name':"REUT PT 0002"
-    },
-    {
-        'id':"REUT PT 0005", 'name':"REUT PT 0005"
-    },
-    {
-        'id':"REUT OT 0001", 'name':"REUT OT 0001"
-    },
-    {
-        'id':"REUT OT 0002", 'name':"REUT OT 0002"
-    },
-    {
-        'id':"REUT OT 0003", 'name':"REUT OT 0003"
-    }
-];
+var users = [];
+for (var i = 1; i <= 20; i++) {
+    users.push({
+        'id':"REUT PT 000" + i, 'name':"REUT PT 000" + i
+    });
+    users.push({
+        'id':"REUT OT 000" + i, 'name':"REUT OT 000" + i
+    });
+}
