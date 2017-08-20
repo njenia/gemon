@@ -53,7 +53,7 @@ def get_all_files():
     # results = service.files().list(
     #     q="'gem on' in owners and mimeType != 'application/vnd.google-apps.folder'").execute()
     results = service.files().list(
-        q="name contains 'REUT PT' or name contains 'REUT OT'").execute()
+        q="name contains 'player_ID_ALYN'").execute()
     files_metadata = results.get('files', [])
     files_content = []
     for file_metadata in files_metadata:

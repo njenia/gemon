@@ -17,9 +17,6 @@ angular.module('gemon').service('UsersService', function () {
 var users = [];
 for (var i = 1; i <= 20; i++) {
     users.push({
-        'id':"REUT PT 000" + i, 'name':"REUT PT 000" + i
-    });
-    users.push({
-        'id':"REUT OT 000" + i, 'name':"REUT OT 000" + i
+        'id':"ALYN 000" + i, 'name': "ALYN 000" + i
     });
 }
